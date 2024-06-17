@@ -1,0 +1,7 @@
+{
+    "paletteST": [ "0x0000", "0x0555", "0x0777", "0x0000", "0x0310", "0x0520", "0x0730", "0x0777", "0x0010", "0x0770", "0x0700", "0x0007", "0x0301", "0x0447", "0x0240", "0x0020" ],
+    "positions": [
+        { "name": "Frame Buffer 1", "offset": "0x00060", "width": 320 },
+        { "name": "Frame Buffer 1", "offset": "0x0FAC0", "width": 320 }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "paletteST": [ "0x0000", "0x0666", "0x0500", "0x0772", "0x0051", "0x0407", "0x0037", "0x0662", "0x0550", "0x0004", "0x0036", "0x0047", "0x0333", "0x0444", "0x0555", "0x0777" ],
+    "positions": [
+        { "name": "Frame buffer 1", "offset": "0x111B3A", "width": 832 },
+        { "name": "Frame buffer 2", "offset": "0x163C38", "width": 832 },
+        { "name": "Maze", "offset": "0x0B9C30", "width": 832 }
+    ]
+}
