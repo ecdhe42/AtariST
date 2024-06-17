@@ -1,0 +1,9 @@
+{
+    "paletteST": [ "0x0000", "0x0666", "0x0656", "0x0650", "0x0500", "0x0005", "0x0660", "0x0545", "0x0630", "0x0165", "0x0120", "0x0300", "0x0652", "0x0333", "0x0666", "0x0000" ],
+    "positions": [
+        { "name": "Frame buffer 1", "offset": "0x060218", "width": 352 },
+        { "name": "Frame buffer 1", "offset": "0x06A718", "width": 352 },
+        { "name": "Frame buffer 1", "offset": "0x074C18", "width": 352 },
+        { "name": "Title", "offset": "0x05EE00", "width": 320 }
+    ]
+}

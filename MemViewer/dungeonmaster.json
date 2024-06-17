@@ -1,0 +1,9 @@
+{
+    "paletteST": [ "0x0000", "0x0333", "0x0444", "0x0310", "0x0066", "0x0520", "0x040", "0x060", "0x0700", "0x0750", "0x0743", "0x0770", "0x0222", "0x0555", "0x0007", "0x0777" ],
+    "positions": [
+        { "name": "Frame buffer", "offset": "0x0EB3A0", "width": 320 },
+        { "name": "Misc", "offset": "0x383C6", "width": 256 },
+        { "name": "Monster", "offset": "0x4B656", "width": 64 },
+        { "name": "Monster 2", "offset": "0xE90F4", "width": 224 }
+    ]
+}

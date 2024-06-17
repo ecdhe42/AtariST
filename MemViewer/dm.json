@@ -1,0 +1,9 @@
+{
+    "paletteST": [ "0x0000", "0x0333", "0x0444", "0x0544", "0x0466", "0x0644", "0x0050", "0x0070", "0x0700", "0x0753", "0x0655", "0x0770", "0x0111", "0x0555", "0x0007", "0x0777" ],
+    "positions": [
+        { "name": "Tiles", "offset": "0x038AE6", "width": 256 },
+        { "name": "Guy", "offset": "0x045E16", "width": 160 },
+        { "name": "Tiles 2", "offset": "0x0489FE", "width": 96 },
+        { "name": "Title", "offset": "0x05EE00", "width": 320 }
+    ]
+}

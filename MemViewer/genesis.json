@@ -1,0 +1,15 @@
+{
+    "paletteST": [ "0x0000", "0x0556", "0x0731", "0x0577", "0x0747", "0x0445", "0x0334", "0x0640", "0x0054", "0x0545", "0x0323", "0x0754", "0x0023", "0x0604", "0x0335", "0x0777" ],
+    "positions": [
+        { "name": "Frame buffer 1", "offset": "0x070000", "width": 320 },
+        { "name": "Frame buffer 2", "offset": "0x078000", "width": 320 },
+        { "name": "Tiles 1", "offset": "0x020054", "width": 48 },
+        { "name": "Tiles 2", "offset": "0x0234D4", "width": 48 },
+        { "name": "Tiles 3", "offset": "0x026954", "width": 48 },
+        { "name": "Tiles 4", "offset": "0x029DD4", "width": 48 },
+        { "name": "Tiles 5", "offset": "0x02D254", "width": 48 },
+        { "name": "Tiles 6", "offset": "0x0306D4", "width": 48 },
+        { "name": "Tiles 7", "offset": "0x033B54", "width": 48 },
+        { "name": "Tiles 8", "offset": "0x036FD4", "width": 48 }
+    ]
+}

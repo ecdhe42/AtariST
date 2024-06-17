@@ -1,0 +1,10 @@
+{
+    "paletteST": [ "0x0000", "0x0200", "0x0742", "0x0266", "0x0241", "0x0112", "0x0457", "0x0777", "0x0114", "0x0223", "0x0334", "0x0556", "0x0500", "0x0730", "0x0760", "0x0777" ],
+    "positions": [
+        { "name": "Frame buffer 1", "offset": "0x06BF80", "width": 320 },
+        { "name": "Frame buffer 2", "offset": "0x064E80", "width": 320 },
+        { "name": "Pre-shifted buffers", "offset": "0x05D100", "width": 288 },
+        { "name": "Monsters", "offset": "0x04A820", "width": 80 },
+        { "name": "Tiles", "offset": "0x033AD8", "width": 16 }
+    ]
+}
