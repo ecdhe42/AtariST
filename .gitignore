@@ -1,0 +1,16 @@
+old
+*.class
+*.o
+*.prg
+*.tos
+*.pi1
+*.png
+*.jpg
+*.bin
+*.sh
+*.jar
+goldrunner
+.vscode
+META-INF
+STMemViewer
+org
